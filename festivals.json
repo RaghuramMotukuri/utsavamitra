@@ -1,0 +1,26 @@
+[
+  {
+    "name": "బోనాలు",
+    "english_name": "Bonalu",
+    "state": "Telangana",
+    "month": "July/August",
+    "description_en": "A Hindu festival dedicated to Goddess Mahakali, celebrated with offerings of rice porridge in decorated pots.",
+    "description_te": "మహాకాళి దేవికి అంకితం చేసిన హిందూ పండుగ, అలంకరించిన కుండలలో బియ్యం కషాయం అందించడం ద్వారా జరుపుకుంటారు."
+  },
+  {
+    "name": "సాయిబాబా జయంతి",
+    "english_name": "Shirdi Sai Baba Jayanti",
+    "state": "Telangana",
+    "month": "October",
+    "description_en": "Celebrated in devotion to Shirdi Sai Baba, especially in Hyderabad and Secunderabad.",
+    "description_te": "హైదరాబాద్ మరియు సికింద్రాబాద్‌లో ప్రధానంగా జరుపుకునే షిర్డీ సాయిబాబాకు అంకితం చేసిన పండుగ."
+  },
+  {
+    "name": "దసరా",
+    "english_name": "Dasara",
+    "state": "Telangana",
+    "month": "October",
+    "description_en": "Celebration of victory of good over evil, with Golu displays and prayers.",
+    "description_te": "చెడుపై మంచి విజయాన్ని జరుపుకునే పండుగ, గోలు ప్రదర్శనలు మరియు పూజలతో కూడినది."
+  }
+]
