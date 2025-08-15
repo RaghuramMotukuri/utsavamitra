@@ -4,23 +4,79 @@
     "english_name": "Bonalu",
     "state": "Telangana",
     "month": "July/August",
-    "description_en": "A Hindu festival dedicated to Goddess Mahakali, celebrated with offerings of rice porridge in decorated pots.",
-    "description_te": "మహాకాళి దేవికి అంకితం చేసిన హిందూ పండుగ, అలంకరించిన కుండలలో బియ్యం కషాయం అందించడం ద్వారా జరుపుకుంటారు."
+    "description_en": "A Hindu festival dedicated to Goddess Mahakali, celebrated with offerings of rice porridge in decorated pots. Large processions and traditional music fill the streets of Hyderabad, Secunderabad, and nearby regions.",
+    "description_te": "మహాకాళి దేవికి అంకితం చేసిన హిందూ పండుగ, అలంకరించిన కుండలలో బియ్యం కషాయం అందించడం ద్వారా జరుపుకుంటారు. హైదరాబాద్, సికింద్రాబాద్ మరియు చుట్టుపక్కల ప్రాంతాల్లో భారీ ఊరేగింపులు మరియు సంప్రదాయ సంగీతం జరుగుతుంది."
   },
   {
     "name": "సాయిబాబా జయంతి",
     "english_name": "Shirdi Sai Baba Jayanti",
     "state": "Telangana",
     "month": "October",
-    "description_en": "Celebrated in devotion to Shirdi Sai Baba, especially in Hyderabad and Secunderabad.",
-    "description_te": "హైదరాబాద్ మరియు సికింద్రాబాద్‌లో ప్రధానంగా జరుపుకునే షిర్డీ సాయిబాబాకు అంకితం చేసిన పండుగ."
+    "description_en": "Celebrated in devotion to Shirdi Sai Baba, especially in Hyderabad and Secunderabad, with prayer meetings, bhajans, and community feasts.",
+    "description_te": "హైదరాబాద్ మరియు సికింద్రాబాద్‌లో ప్రధానంగా జరుపుకునే షిర్డీ సాయిబాబాకు అంకితం చేసిన పండుగ, ప్రార్థనా సభలు, భజన్లు, మరియు సమూహ భోజనాలు నిర్వహిస్తారు."
   },
   {
     "name": "దసరా",
     "english_name": "Dasara",
     "state": "Telangana",
     "month": "October",
-    "description_en": "Celebration of victory of good over evil, with Golu displays and prayers.",
-    "description_te": "చెడుపై మంచి విజయాన్ని జరుపుకునే పండుగ, గోలు ప్రదర్శనలు మరియు పూజలతో కూడినది."
+    "description_en": "Celebration of the victory of good over evil, with Golu displays, prayers, and vibrant processions. In Telangana, Bathukamma coincides with Dasara, adding floral festival celebrations.",
+    "description_te": "చెడుపై మంచి విజయాన్ని జరుపుకునే పండుగ, గోలు ప్రదర్శనలు మరియు పూజలతో కూడినది. తెలంగాణలో బతుకమ్మ కూడా దసరా రోజుల్లో జరుపుకుంటారు, ఇది పూల పండుగగా ప్రత్యేకం."
+  },
+  {
+    "name": "బతుకమ్మ",
+    "english_name": "Bathukamma",
+    "state": "Telangana",
+    "month": "September/October",
+    "description_en": "A unique floral festival, where women create flower stacks (Bathukammas) and immerse them in local water bodies. Songs and dances mark the festivities.",
+    "description_te": "పూల పండుగగా ప్రసిద్ది చెందిన బతుకమ్మలో మహిళలు పూలతో బతుకమ్మలు తయారు చేసి వాటిని నీటి లో ఊరువాక వేస్తారు. పాటలు మరియు నాట్యాలతో ఈ పండుగ ఘనంగా జరుగుతుంది."
+  },
+  {
+    "name": "రామనవమి",
+    "english_name": "Sri Rama Navami",
+    "state": "Telangana",
+    "month": "March/April",
+    "description_en": "Marks the birth of Lord Rama. Temples are beautifully decorated, special prayers and processions are held, especially at Bhadrachalam.",
+    "description_te": "రాముడి జన్మదినంగా జరుపుకునే పండుగ. ఆలయాలు అలంకరించబడతాయి, విశేష పూజలు, ఊరేగింపులు ముఖ్యంగా భద్రాచలం వద్ద నిర్వహించబడతాయి."
+  },
+  {
+    "name": "వినాయక చవితి",
+    "english_name": "Vinayaka Chavithi (Ganesh Chaturthi)",
+    "state": "Telangana",
+    "month": "August/September",
+    "description_en": "Commemorates the birth of Lord Ganesha, celebrated by installing clay idols in homes and public places, followed by immersion processions.",
+    "description_te": "వినాయకుడి జన్మదినంగా జరుపుకునే పండుగ. ఇంట్లోను, బహిరంగ ప్రదేశాల్లోను పుల్లి మట్టి విగ్రహాలు ప్రతిష్టించి, ఊరేగింపుల్లో నిమజ్జనం చేయబడుతుంది."
+  },
+  {
+    "name": "నాగుల చవితి",
+    "english_name": "Nagula Chavithi",
+    "state": "Telangana",
+    "month": "October/November",
+    "description_en": "A festival for worshipping snakes, particularly the cobra. Women perform rituals to seek protection for their families.",
+    "description_te": "పాములకూ (నాగులకు) అర్పించి చేసే పండుగ. ముఖ్యంగా మహిళలు ఈ పండుగను తమ కుటుంబానికి ఆరోగ్యం, రక్షణ కోసం జరుపుకుంటారు."
+  },
+  {
+    "name": "కర్తిక మాసం దీపోత్సవం",
+    "english_name": "Karthika Masam Deepotsavam",
+    "state": "Telangana",
+    "month": "November/December",
+    "description_en": "Devotees light oil lamps (deepams) and visit Shiva temples every day during the holy Kartik month.",
+    "description_te": "కార్తిక మాసంలో నిత్యం ఆలయాలకు వెళ్లి, తైలదీపాలు వెలిగించి ప్రార్థనలు చేయబడతారు. ఇది శివుడికి అంకితం చేసిన పవిత్రమైన మాసం."
+  },
+  {
+    "name": "హోలీ",
+    "english_name": "Holi",
+    "state": "Telangana",
+    "month": "March",
+    "description_en": "Known as the festival of colors, people celebrate by throwing colored powders, singing, and dancing together.",
+    "description_te": "రంగుల పండుగగా ప్రసిద్ది చెందిన హోలీ సందర్భంగా ప్రజలు రంగులు చల్లుకోవడం, పాటలు పాడడం, నాట్యం చేయడం చేస్తారు."
+  },
+  {
+    "name": "ఎల్లమ్మ జాత్ర",
+    "english_name": "Ellamma Jathara",
+    "state": "Telangana",
+    "month": "April/May",
+    "description_en": "A major regional fair dedicated to Goddess Ellamma, featuring grand processions, rituals, and community feasts in rural Telangana.",
+    "description_te": "తల్లి ఎల్లమ్మకు అంకితమైన ఘనమైన జాత్ర. ఊరేగింపులు, ప్రత్యేక పూజలు, స్వగ్రామాల్లో సామూహికంగా భోజనాలు జరుగుతాయి."
   }
 ]
